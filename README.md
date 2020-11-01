@@ -1,5 +1,5 @@
 # World Weather Analysis
-## Overview of the project
+## Overview of the Project
 The purpose of the project is to provide the user with travel destinations and hotel recommendations based on their desired city and weather criteria. Python script is used to visualize the weather of 500+ cities across the world of varying distance from the equator, using Python library, Openweather, Google API keys and create a representative model of weather across world cities. 
 
 ## Steps Performed 
