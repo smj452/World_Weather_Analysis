@@ -10,7 +10,7 @@ The purpose of the project is to provide the user with travel destinations and h
 - Percent humidity
 - Percent cloudiness
 - Wind speed 
-- Weather description.
+- Weather description
 
 2.	Added the data generated to a new Data Frame and exported the Data Frame as a CSV file, and saved it as ```WeatherPy_Database.csv``` in the ```Weather_Database``` folder.
 
