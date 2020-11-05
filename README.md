@@ -20,7 +20,7 @@ The purpose of the project is to provide the user with travel destinations and h
 
 4.	Lastly in the ``` Vacation_Itinerary.ipynb ``` file using the Google Maps Directions API and a marker layer map created a travel route between the four selected cities of choice from the google maps displayed. This will give you the best route between the cities depending upon your mode of travel i.e. 'Driving', 'Walking' or 'Bicycling'.
 
-**City Map**
+**Cities Map**
 ![WeatherPy_travel_map.png](https://github.com/smj452/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
 **City Markers**
