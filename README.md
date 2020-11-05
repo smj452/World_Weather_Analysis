@@ -16,6 +16,7 @@ The purpose of the project is to provide the user with travel destinations and h
 
 3.	Inputted desired temperature ranges in the ```Vacation_Search.ipynb``` from the ```Vacation_Search``` folder and based on the input temperature ranges it will filter out the destinations. The output is a google map with markers and a csv dataset that can be used for building an itinerary.
 
+**Destination Marker layer map**
 ![WeatherPy_vacation_map.png](https://github.com/smj452/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
 4.	Lastly in the ``` Vacation_Itinerary.ipynb ``` file using the Google Maps Directions API and a marker layer map created a travel route between the four selected cities of choice from the google maps displayed. This will give you the best route between the cities depending upon your mode of travel i.e. 'Driving', 'Walking' or 'Bicycling'.
